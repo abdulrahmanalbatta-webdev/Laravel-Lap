@@ -1,4 +1,17 @@
-Git commands [
+Git commands
+
+-> git init
     U => Untracked
 
-]
+-> git add .
+    A => Added
+
+-> git commit -m 'new-project'
+
+-> git branch -M main
+
+-> git remote add origin ...
+
+
+M => Modified
+

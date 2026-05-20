@@ -6,10 +6,6 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-
-// Home About Contact Us
-
-
 Route::get('/home', function () {
     return "<h1>HOMEPAGE</h1>";
 });
