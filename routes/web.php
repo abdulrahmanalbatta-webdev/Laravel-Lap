@@ -17,3 +17,7 @@ Route::get('/about', function () {
 Route::get('/contact', function () {
     return "<h1>CONTACT US</h1>";
 });
+
+Route::get('/services', function () {
+    return "<h1>SERVICES</h1>";
+});
