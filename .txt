@@ -12,6 +12,21 @@ Git commands
 
 -> git remote add origin ...
 
-
 M => Modified
+
+---------------------------------------------------------------------
+
+URL => Uniform Resources Locator
+
+https://www.example.com:8080/products/phones?id=15&sort=asc#reviews
+
+protocol://subdomain.domain:port/path?query#fragment
+
+HTTP => Hyper Text Transfer protocol
+HTTPS => Hyper Text Transfer protocol Secure
+
+TLD => Top Level Domain [.com, .org, .net, .ai]
+
+Host => www.example.com
+
 
